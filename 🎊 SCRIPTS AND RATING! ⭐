@@ -1,0 +1,20 @@
+LUNOR: script_key = 'Insert Lunor Key Here';
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Loader"))()
+
+Rating for LUNOR: 97%, I really recommend to use this amazing script! With its feautures. The key system also provide only two ad website, which is Linkvertise and Lootlinks. 
+Alot of thing you can also buy. The only downside of its were just the limit on the teleport areas.
+
+NATIVE: script_key="PasteKeyHere";
+(loadstring or load)(game:HttpGet("https://raw.githubusercontent.com/Native-lab/Native/main/loader.lua"))()
+
+Rating for NATIVE: 89%, I won't really siggest to use this script because the key system had 3 ad website. (Which kinda annoying for me) And the feautures is really unique and alot!
+Also, ypu could farm event zone petty easy too. Like Kraken or Megalodon!
+
+Speed Hub X: loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+
+Rating for SPEED HUB X: 78%, this particular script is made for low UNC's executors. Such as those that still in beta version or Luna executor. Which make this script had alot of limited features. But for the areas selection is complete.
+This one of the very uptodate script! Everytime FISCH update only in 1-2 hour they alreasy make changes!
+
+Alchemy HUB: loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()\
+
+Rating for Alchemy HUB: 80%, With its limited feautures. Every single features also is working perfectly fine or I could say more better that te other? Anysways, that's only it.
